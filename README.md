@@ -6,8 +6,8 @@ Given two image from different perspective, without any calibation parameter, re
 ![Reconstruction Pipeline](/images/demo/3D_reconstruction.jpg)
 
 # Sample Results
-![Inputs](/images/input/1_001.jpg)
-![Inputs](/images/input/1_002.jpg)
+![Inputs](/images/input/1_001.jpg)(/images/input/1_002.jpg)
+
 ![Reconstruction Results](/images/demo/demo.gif)
 
 # How to Run
@@ -16,12 +16,12 @@ MATLAB 2018 or Higher
 ## 3D reconstruction
 Run
 
-'''console
+'''bash
    code/test3DReconstruction.m
 '''
 ## Vanishing Points Detection and adjustment
 Run
 
-'''console
+'''bash
    code/testVP.m
 '''
