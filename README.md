@@ -6,8 +6,7 @@ Given two image from different perspective, without any calibation parameter, re
 ![Reconstruction Pipeline](/images/demo/3D_reconstruction.jpg)
 
 ## Sample Results
-<img src="https://github.com/fei123ilike/3D-Reconstruction-with-Plane-Homography-Constraint/tree/master/images/input/1_001.jpg" width=30% height=30%/> 
-<img src="https://github.com/fei123ilike/3D-Reconstruction-with-Plane-Homography-Constraint/tree/master/images/input/1_002.jpg" width=30% height=30%/> 
+<img src="https://github.com/fei123ilike/3D-Reconstruction-with-Plane-Homography-Constraint/tree/master/images/input/1_001.jpg" width=30% height=30%/> <img src="https://github.com/fei123ilike/3D-Reconstruction-with-Plane-Homography-Constraint/tree/master/images/input/1_002.jpg" width=30% height=30%/> 
 
 ![Reconstruction Results](/images/demo/demo.gif)
 
